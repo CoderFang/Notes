@@ -1,6 +1,7 @@
 #### Mysql面试题
 
-> https://juejin.im/post/5cb6c4ef51882532b70e6ff0
+##### 参考链接
+1. https://juejin.im/post/5cb6c4ef51882532b70e6ff0
 
 - MySQL主从复制的流程和原理
 
