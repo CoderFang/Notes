@@ -44,6 +44,10 @@
 3. 可重复读
 4. 可串行化
 
+- Mysql的事务是如何实现的？
+> 事务通过redolog和InnoDB的存储引擎日志缓冲实现的。巴拉巴拉...
+
+
 
 - MySQL的CPU飙升的处理（可能原因排查）
 1. show processlist 查看进程，干掉
