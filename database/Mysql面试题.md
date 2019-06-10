@@ -47,6 +47,8 @@
 - Mysql的事务是如何实现的？
 > 事务通过redolog和InnoDB的存储引擎日志缓冲实现的。巴拉巴拉...
 
+- Mysql binlog的日志格式
+保存操作数据的mysql语句
 
 
 - MySQL的CPU飙升的处理（可能原因排查）
