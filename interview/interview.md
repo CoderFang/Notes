@@ -79,6 +79,10 @@ TP：
 
 - Mysql的日志？
 
+- Mysql的隔离级别
+
+- 
+
 
 4. 服务器
 NGINX
